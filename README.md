@@ -20,7 +20,7 @@ Treasure map detail analog:
 - there are four potential actions to move: up/down/left/right or stay
 - the forbidden sign in cells indicates obstacle which hunter can pass through
 - the blue devil is a monster which walking into it's territory(single cell) would cause harm(negative reward)
-- the treasure box is teh end goal of the hunt
+- the treasure box is the end goal of the hunt
 
 ![WeChat 截圖_20210512233658](https://user-images.githubusercontent.com/42806161/118079804-6ebc0880-b37e-11eb-9c37-4b93e3bb442c.png)
 
